@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+      {/* <footer>
+        <p>&copy; {currentYear} Все права защищены.</p>
+      </footer> */}
     </div>
   );
 }
