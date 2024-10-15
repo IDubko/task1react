@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import '.index.js';
 
 function App() {
   return (
@@ -21,6 +22,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <footer>
+        <p>&copy; {currentYear} Все права защищены.</p>
+      </footer>
     </div>
   );
 }
